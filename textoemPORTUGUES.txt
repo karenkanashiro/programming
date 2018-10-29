@@ -15,3 +15,18 @@ Aqui estão três rápidos passos para contribuir para esse projeto:
 2- Nomeie sua branch nomeusuario_hello_world_em_C
 Crie também um diretório para qualquer programa se isso não existir. p.ex. hello_world, bubble_sort. Dentro desses diretórios voce pode criar seu próprio arquivo chamado nome_programa.extensão (hello_world.cpp). Crie um commit.
 3- Finalmente, espere para ter um merge.
+
+COMO COMEÇAR
+- 'Fork' esse repositório (Clique no botão Fork na parte superior direita dessa página, clique na sua foto de perfil)
+- Clone sua Fork no terminal (git bash)
+$git clone https://github.com/seunomedeusuario/programming.git
+- crie uma branch
+$git checkout -b nome-branch
+-faça suas alterações
+-commit e push
+$git add nomearquivo
+$git commit -m "mensagem"
+$git push origin nome-branch
+-crie um novo pull request do seu repositorio (clique no botão New Pull Request localizado na parte superior do seu repositorio)
+-espere seu Pull Request ser revisado e aprovado
+- favorite esse repositorio e se divirta
