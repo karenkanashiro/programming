@@ -1,7 +1,32 @@
-HACKTOBERFEST (TEXT IN PORTUGUESE)
+﻿HACKTOBERFEST (TEXT IN PORTUGUESE)
 Qualquer um pode usar esse projeto para fazer sua contribuição em um projeto open source no GitHub. Celebrar o Hacktoberfest se envolvendo em uma comunidade open source apenas completando tarefas simples nesse projeto.
 Esse é um repositorio público aberto para todos os membros da comunidade GitHub. Qualquer membro da comunidade pode contribuir para esse projeto sem ser um colaborador.
 
 O QUE É HACKTOBERFEST?
 Um mês de celebração que vai do dia primeiro de outubro até o dia 31, patrocinado pela Digital Ocean e GitHub, para pessoas envolvidas em open source. Criar seu primeiro Pull Request em algum repositório público no GitHub e contribuir para a Comunidade de Desenvolvimento Open Source
+(https://hacktoberfest.digitalocean.com/)
 
+VERIFIQUE SUAS CONTRIBUIÇÕES DO HACKTOBERFEST EM:
+(https://hacktoberfest.digitalocean.com/stats)
+
+COMO CONTRIBUIR PARA ESSE PROJETO:
+Aqui estão três rápidos passos para contribuir para esse projeto:
+1- Adicionar um programa em qualquer linguagem ( um simpels Hello World é suficiente). Para isso, primeiro crie uma questão com a tarefa que voce está fazendo, por exemplo " Questão - criar um bubble sort em C". Adicione a etiqueta do Hacktoberfest na questão e assine. Crie um pull request na resposta para a questão e finalmente submeta isso para revisão.
+2- Nomeie sua branch nomeusuario_hello_world_em_C
+Crie também um diretório para qualquer programa se isso não existir. p.ex. hello_world, bubble_sort. Dentro desses diretórios voce pode criar seu próprio arquivo chamado nome_programa.extensão (hello_world.cpp). Crie um commit.
+3- Finalmente, espere para ter um merge.
+
+COMO COMEÇAR
+- 'Fork' esse repositório (Clique no botão Fork na parte superior direita dessa página, clique na sua foto de perfil)
+- Clone sua Fork no terminal (git bash)
+$git clone https://github.com/seunomedeusuario/programming.git
+- crie uma branch
+$git checkout -b nome-branch
+-faça suas alterações
+-commit e push
+$git add nomearquivo
+$git commit -m "mensagem"
+$git push origin nome-branch
+-crie um novo pull request do seu repositorio (clique no botão New Pull Request localizado na parte superior do seu repositorio)
+-espere seu Pull Request ser revisado e aprovado
+- favorite esse repositorio e se divirta
