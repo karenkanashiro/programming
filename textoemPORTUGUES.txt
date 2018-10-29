@@ -1,4 +1,4 @@
-HACKTOBERFEST (TEXT IN PORTUGUESE)
+﻿HACKTOBERFEST (TEXT IN PORTUGUESE)
 Qualquer um pode usar esse projeto para fazer sua contribuição em um projeto open source no GitHub. Celebrar o Hacktoberfest se envolvendo em uma comunidade open source apenas completando tarefas simples nesse projeto.
 Esse é um repositorio público aberto para todos os membros da comunidade GitHub. Qualquer membro da comunidade pode contribuir para esse projeto sem ser um colaborador.
 
